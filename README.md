@@ -1,4 +1,4 @@
-# Matthew Leonard
+# Mae Leonard
 
 ## Director of Security Operations | Black Feather Security
 
@@ -76,7 +76,7 @@ Focused on:
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/matthew-g-leonard/
+- LinkedIn: https://www.linkedin.com/in/leonardmg/
 - Website: https://blackfeathersecurity.com
 
 ---
